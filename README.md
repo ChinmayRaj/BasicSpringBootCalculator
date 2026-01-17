@@ -37,12 +37,12 @@ cd BasicSpringBootCalculator
 
 Assuming the main controller is mapped to `/api/calculator`:
 
-| Operation   | Method | Endpoint           | Sample Request Body         |                       
-|-------------|--------|---------------------------------------------------                                    
-| Add         | POST   | `/addition`        | `{ "a": 2, "b": 3 }`        |                             
-| Subtract    | POST   | `/subtract`        | `{ "a": 5, "b": 2 }`        |                             
-| Multiply    | POST   | `/multiply`        | `{ "a": 3, "b": 4 }`        |                              
-| Divide      | POST   | `/divide`          | `{ "a": 10, "b": 2 }`       |                               
+| Operation   | Method | Endpoint           | Sample Request Body |                       
+|-------------|--------|------------------------------------------                                    
+|     Add     |  POST  |     `/addition`    | `{ "a": 2, "b": 3 }`|                             
+|   Subtract  |  POST  |     `/subtract`    | `{ "a": 5, "b": 2 }`|                             
+|   Multiply  |  POST  |     `/multiply`    | `{ "a": 3, "b": 4 }`|                              
+|   Divide    |  POST  |     `/divide`      | `{ "a": 10,"b": 2 }`|                               
 
 
 
