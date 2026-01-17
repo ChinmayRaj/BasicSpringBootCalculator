@@ -1,4 +1,4 @@
-# BasicSpringBootCalculator
+# BasicSpringBootCalculator 
 
 A basic calculator application built with Spring Boot that exposes simple arithmetic operations via RESTful APIs.
 
